@@ -1,2 +1,2 @@
 
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Desenvolvido por Arthur, Silva
